@@ -1,0 +1,5 @@
+-- Workout sessions are not generated from exercise-only source data.
+-- Import source exercises with: python scripts/ingest_catalogue.py
+-- Imported exercises remain quarantined until a qualified reviewer approves them.
+-- Add complete, reviewed workout sessions to workout_sessions and session_exercises
+-- only after prescriptions and safety notes have been reviewed.

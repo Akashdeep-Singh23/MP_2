@@ -1,0 +1,92 @@
+[
+  {
+    "id": "PROF-01",
+    "name": "Beginner Bodyweight Muscle",
+    "goal": "Muscle gain",
+    "level": "Beginner",
+    "equipment": ["Bodyweight only"],
+    "duration": 30,
+    "hold": false
+  },
+  {
+    "id": "PROF-02",
+    "name": "Intermediate Dumbbell Strength",
+    "goal": "Strength improvement",
+    "level": "Intermediate",
+    "equipment": ["Dumbbells", "Bench"],
+    "duration": 45,
+    "hold": false
+  },
+  {
+    "id": "PROF-03",
+    "name": "Advanced Full Gym Endurance",
+    "goal": "Endurance",
+    "level": "Advanced",
+    "equipment": ["Barbell", "Bench", "Gym machines", "Cable machine"],
+    "duration": 60,
+    "hold": false
+  },
+  {
+    "id": "PROF-04",
+    "name": "Active Injury Hold",
+    "goal": "Fat loss",
+    "level": "Intermediate",
+    "equipment": ["Dumbbells"],
+    "duration": 30,
+    "hold": true
+  },
+  {
+    "id": "PROF-05",
+    "name": "Beginner Mobility & Recovery",
+    "goal": "Flexibility and mobility",
+    "level": "Beginner",
+    "equipment": ["Foam roller", "Bodyweight only"],
+    "duration": 20,
+    "hold": false
+  },
+  {
+    "id": "PROF-06",
+    "name": "Kettlebell Fat Loss",
+    "goal": "Fat loss",
+    "level": "Intermediate",
+    "equipment": ["Kettlebells"],
+    "duration": 40,
+    "hold": false
+  },
+  {
+    "id": "PROF-07",
+    "name": "Zero Compatible Equipment Edge",
+    "goal": "Strength improvement",
+    "level": "Intermediate",
+    "equipment": ["Exercise ball"],
+    "duration": 45,
+    "hold": false
+  },
+  {
+    "id": "PROF-08",
+    "name": "Short Duration Crunch",
+    "goal": "General fitness",
+    "level": "Beginner",
+    "equipment": ["Bodyweight only"],
+    "duration": 15,
+    "hold": false
+  },
+  {
+    "id": "PROF-09",
+    "name": "Advanced Calisthenics",
+    "goal": "Muscle gain",
+    "level": "Advanced",
+    "equipment": ["Bodyweight only"],
+    "duration": 60,
+    "hold": false
+  },
+  {
+    "id": "PROF-10",
+    "name": "Resistance Band General",
+    "goal": "General fitness",
+    "level": "Intermediate",
+    "equipment": ["Resistance bands"],
+    "duration": 35,
+    "hold": false
+  }
+]

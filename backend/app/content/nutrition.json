@@ -1,0 +1,23 @@
+{
+  "disclaimer": "This guidance is for general educational purposes only and is not medical or clinical nutrition advice.",
+  "topics": [
+    {
+      "id": "macronutrients",
+      "title": "Balanced Whole Food Macronutrients",
+      "summary": "Understanding complete proteins, complex carbohydrates, and essential dietary fats to fuel daily activity.",
+      "content": "A balanced dietary approach prioritizes whole, minimally processed food sources. Aim to include a palm-sized portion of protein (fish, poultry, legumes, tofu) with meals, complex carbohydrates (oats, brown rice, potatoes) around active training sessions, and healthy fats (olive oil, avocados, nuts) for hormone health and satiety."
+    },
+    {
+      "id": "hydration",
+      "title": "Hydration Guidelines & Fluid Balance",
+      "summary": "Recommended fluid intake before, during, and after workout sessions.",
+      "content": "Maintain consistent fluid intake throughout the day. Drink 400-600ml of water 1-2 hours prior to exercise, sip small amounts during strenuous exertion, and rehydrate after completion to replace fluids lost through perspiration."
+    },
+    {
+      "id": "goal-nutrition-habits",
+      "title": "Practical Goal-Aligned Habits",
+      "summary": "Sustainable nutrition habits tailored for energy, strength, and mobility.",
+      "content": "For muscle gain and strength, ensure regular protein distribution across 3-4 meals daily. For endurance and general fitness, ensure adequate hydration and sustained energy from dietary fiber and unrefined carbohydrates. Avoid extreme dietary restrictions."
+    }
+  ]
+}
